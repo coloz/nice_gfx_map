@@ -1,0 +1,105 @@
+# Build output and downloaded validation dependencies
+build/
+build-*/
+cmake-build-*/
+.build/
+.builddeps/
+.pio/
+.cache/
+tests/
+# Standalone tests for the published route-conversion tool
+/examples/14_TiandituBikeRecorder/tools/test_gpx_to_route.py
+
+# CMake / CTest / Ninja generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+DartConfiguration.tcl
+install_manifest.txt
+compile_commands.json
+Testing/
+build.ninja
+rules.ninja
+.ninja_deps
+.ninja_log
+
+# ESP-IDF generated configuration and managed dependencies
+sdkconfig
+sdkconfig.old
+managed_components/
+dependencies.lock
+
+# Compiler and firmware output
+*.o
+*.obj
+*.d
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.elf
+*.bin
+*.map
+*.hex
+*.uf2
+*.gcda
+*.gcno
+*.gcov
+coverage/
+.coverage
+.coverage.*
+htmlcov/
+
+# Python tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Optional local configuration; keep example/template files versioned
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+*.local.h
+/examples/16_TiandituServices/ServiceSecrets.h
+/examples/17_TiandituLayers/LayerSecrets.h
+
+# Local IDE settings
+.vscode/
+.idea/
+.vs/
+
+# Local history and backup copies
+.history/
+.local-history/
+/history/
+/backup/
+/backups/
+/archive/
+/archives/
+*.old
+
+# Ride data copied back from an SD card
+rides/
+
+# Temporary files, editor backups and operating-system metadata
+*.log
+*.tmp
+*.temp
+/tmp/
+/temp/
+*.bak
+*.bak.*
+*.backup
+*.orig
+*.rej
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini

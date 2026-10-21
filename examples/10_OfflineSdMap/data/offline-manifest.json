@@ -1,0 +1,425 @@
+{
+  "schema": 1,
+  "sourceId": "demo-v1",
+  "description": "Original procedural tiles for offline tests; not geographic roads.",
+  "projection": "WebMercator",
+  "scheme": "XYZ",
+  "tileSize": 128,
+  "zoom": 14,
+  "center": {
+    "latitude": 30.6586,
+    "longitude": 104.0648
+  },
+  "centerTile": {
+    "x": 12928,
+    "y": 6724
+  },
+  "layers": 1,
+  "files": [
+    {
+      "path": "tiles/demo-v1/0/14/12924/6720.png",
+      "bytes": 431,
+      "sha256": "385b6de19e5e1f1f09ded20a17638d99c075d031f3dcc5082ccc6dd5ac1810bb"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12925/6720.png",
+      "bytes": 418,
+      "sha256": "99cc8cf2f1ed52caf326be4c49d47dcc59ab4b4e47f5b9ad2e0fac6d53b12ece"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12926/6720.png",
+      "bytes": 452,
+      "sha256": "ba89f0904147232c84a4b57eb454bf28576f92eb4c5c8bd45eff0712f9ec7ae6"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12927/6720.png",
+      "bytes": 400,
+      "sha256": "613ff9582dd87dda9e4cd2af180343a0938d5697e7b0ed01eb0ace40e8e166b0"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12928/6720.png",
+      "bytes": 455,
+      "sha256": "1fea6e568d3c97377e40c8a150b5003ce5a83bc8733876892daf7b327a86bcce"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12929/6720.png",
+      "bytes": 378,
+      "sha256": "54a7340454ccbeb8d605b3df08fd649d25412a31f8eb67a55b0fa95c24090479"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12930/6720.png",
+      "bytes": 451,
+      "sha256": "92e5fc765128a95b5a5190b2bea759c9647bd799bed7f1c513021ddd3ef98c14"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12931/6720.png",
+      "bytes": 362,
+      "sha256": "c002c2a3e10f1ebd1acd3e422fa474955ef31cccc950cb36c97500e16d55e332"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12932/6720.png",
+      "bytes": 453,
+      "sha256": "7b791de917d100f22de518bab840e75c70392c413c9649339d100414f841170c"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12924/6721.png",
+      "bytes": 469,
+      "sha256": "3fa161140f2e742eddb5486ff6d3b3bd28f77a7d58840e99276573d9a301436f"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12925/6721.png",
+      "bytes": 345,
+      "sha256": "32e06b94ec1c72c194a374e79208b3c68757969e60769f0d185b3e0f017a6ccd"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12926/6721.png",
+      "bytes": 459,
+      "sha256": "0be10d3b017305c3b5def69846c4eccb1c63fba50ded5ac2225554f4c2e11b73"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12927/6721.png",
+      "bytes": 343,
+      "sha256": "16c92d957d3318e2766100b9232e9f1dcc92b480024a625793ad06bea3367749"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12928/6721.png",
+      "bytes": 470,
+      "sha256": "10adcf19cd1cc9d3357b61816851b35d3d82b56d14fd9e8dabf79f8fcb6a90d8"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12929/6721.png",
+      "bytes": 345,
+      "sha256": "9d1532e2ff0cb3090d72a845ef6807cc76e3e5654582eb4cb6307d28cb9d1bea"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12930/6721.png",
+      "bytes": 490,
+      "sha256": "a12a08329cb25701e567be8bdd26c81c81c807941b99f06ae13d8ddb204a7c79"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12931/6721.png",
+      "bytes": 342,
+      "sha256": "deb0c3e6b52478f52b38db77310e0f10e86558d61e3896f0e98e27aa5494043a"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12932/6721.png",
+      "bytes": 472,
+      "sha256": "02d9632a0c656662a9360bea5e0cc69278aedbe378f0c8a6003c2df3bc47b632"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12924/6722.png",
+      "bytes": 474,
+      "sha256": "32677901289ee5f0af602bf4d19c31d5df2f36e3983b09377c6f87810bca0f78"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12925/6722.png",
+      "bytes": 333,
+      "sha256": "3e33853a91d4891d42d74e9e5f8149797093f4de44aa047611242578bb37a7af"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12926/6722.png",
+      "bytes": 466,
+      "sha256": "08dc6ea8a82d462a82874d90c35a8ee50ebf11dcbd8d52d086c020702057c19a"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12927/6722.png",
+      "bytes": 338,
+      "sha256": "453e5ef12ef4d4fedd8f51890702f43cd6899c2a290c3d24e0b1692131f99143"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12928/6722.png",
+      "bytes": 471,
+      "sha256": "8701fcda38a60709b1cf2bd9fffd427fc2fc047b147591f3156206b6218304ac"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12929/6722.png",
+      "bytes": 337,
+      "sha256": "420cba17bcf5346b177024668b738d4d1513290654800cad8e2b130a0b3e24b8"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12930/6722.png",
+      "bytes": 452,
+      "sha256": "54fd72a67eb61f08085c107be3e4d530c80c926fe59ddb520c9ebdb759e39804"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12931/6722.png",
+      "bytes": 342,
+      "sha256": "87ec4e9d3fd1153a1ebc96dabde680c4b97a7f7f10fe550abd9fe06f98618598"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12932/6722.png",
+      "bytes": 454,
+      "sha256": "9f4445b5015e58daa2c3591e98658e3f738f4c8744f58d2e1dc875fbbd2e8f7d"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12924/6723.png",
+      "bytes": 463,
+      "sha256": "12312fc51a76f339d61194cc073b018e72b65b75a993f23a149e517ce6cfcb50"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12925/6723.png",
+      "bytes": 336,
+      "sha256": "ae5778be6b153eb4804aee878a70a62cea9b3e65af56ca64e841afd214138e2b"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12926/6723.png",
+      "bytes": 465,
+      "sha256": "ddfa0c45b43d7325f67b78aea491aa11d8cf0dfdb9f9645749a121a891911787"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12927/6723.png",
+      "bytes": 337,
+      "sha256": "0654495baf83687f7efb1b1c223df43b9a45cfc01c48e687f513a9e6bd4be2c2"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12928/6723.png",
+      "bytes": 471,
+      "sha256": "a2e2a4a8ee2fd29cb8cd677fb427ec3ae6c8139c80c1838174a218fa7027bfec"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12929/6723.png",
+      "bytes": 357,
+      "sha256": "e6d477220444b244070d29a97c19369e9ab3f4e1f4de807f00408d6d78a515e3"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12930/6723.png",
+      "bytes": 479,
+      "sha256": "2a9986912238986d07909b2d3e3f4cb009e292b8df46a413445bef93981f7afc"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12931/6723.png",
+      "bytes": 380,
+      "sha256": "30e4841a4632fc2f0e473853b8a3e14f102331f112f6e59e08544ca65e1a9cad"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12932/6723.png",
+      "bytes": 483,
+      "sha256": "db29236f0bb4211ee5d31740ec91f54418dae96cea3950d485104688ea040812"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12924/6724.png",
+      "bytes": 421,
+      "sha256": "1f307e3f62ab790b416f9945811f2882ae3f9cd7cb28c5a1ecfccf5b9ba9db3f"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12925/6724.png",
+      "bytes": 447,
+      "sha256": "9d208c3cea856176313e00f8384f1ddc29d242b12f97a42d3dbde5593a7f1654"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12926/6724.png",
+      "bytes": 409,
+      "sha256": "4368f58c4cb5f5d07a2359b4e370a2ef9fe09227b102453bf7d115af38276d17"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12927/6724.png",
+      "bytes": 470,
+      "sha256": "a233fbfdbcb3cc63f0dfb1da747da3c1268c01bda294aeae84a5158bb45a9bc0"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12928/6724.png",
+      "bytes": 384,
+      "sha256": "7a25f51130a5d7133817b8f5721cb0f5a3f47818988cf97bb640ee12e1bdd166"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12929/6724.png",
+      "bytes": 461,
+      "sha256": "70f4bd211df9a0668c94f3e009fae9f794bfc5bd6b168c73a1528be6f98f253c"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12930/6724.png",
+      "bytes": 353,
+      "sha256": "e5c4bebd9832081ed3151c5a77dc9c581145d753e2db4a54535928d74214562e"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12931/6724.png",
+      "bytes": 471,
+      "sha256": "e65e652b56b65c7868cc3a821bf41426983480c66305ecaf1720e9b5d4c74425"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12932/6724.png",
+      "bytes": 334,
+      "sha256": "6de1b8b25a61cd58c56ef77c6604ef4b5584f702d436edddf31960296e076893"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12924/6725.png",
+      "bytes": 338,
+      "sha256": "453e5ef12ef4d4fedd8f51890702f43cd6899c2a290c3d24e0b1692131f99143"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12925/6725.png",
+      "bytes": 462,
+      "sha256": "c1be85a52fc228fde2841a734decc589ac5c744d3396d19a4744158b3bf8c924"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12926/6725.png",
+      "bytes": 337,
+      "sha256": "420cba17bcf5346b177024668b738d4d1513290654800cad8e2b130a0b3e24b8"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12927/6725.png",
+      "bytes": 452,
+      "sha256": "14b8f2fff8827bcf9526fc3b2e021f1a66148b943e665f9f7e9ccc628ea6ca39"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12928/6725.png",
+      "bytes": 342,
+      "sha256": "87ec4e9d3fd1153a1ebc96dabde680c4b97a7f7f10fe550abd9fe06f98618598"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12929/6725.png",
+      "bytes": 442,
+      "sha256": "42e68fdafe55374182af9f17a31c508abe7b03a2e85c40077a8553028f0cf358"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12930/6725.png",
+      "bytes": 346,
+      "sha256": "46471f3d681fa9404cab4ea5b67d398c4ae9caff70ad4d4187caaee8a61fabb9"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12931/6725.png",
+      "bytes": 453,
+      "sha256": "00ef2a83cc1275687e121f7007eaf874c00d3cb5459c37baeb67788a960c6f03"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12932/6725.png",
+      "bytes": 345,
+      "sha256": "0dd3f3e3689c5e7479d9c3cba0744e1bb23550a54e262cfb8b56ab194005b0b8"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12924/6726.png",
+      "bytes": 332,
+      "sha256": "0bda1d89483e80c69e69faf6caaeda728d6ea91853da3bca6f45408ca8e2d81d"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12925/6726.png",
+      "bytes": 454,
+      "sha256": "23953b1cf5b3017527cd4fbfc7f286bccdd9bffe027a0300c1adf4c810ce4dc4"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12926/6726.png",
+      "bytes": 333,
+      "sha256": "ca82b47a92d7311f09bd7bc98f501d5b3e45f773768779ea307e441746e35c2f"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12927/6726.png",
+      "bytes": 475,
+      "sha256": "aab8772fa8275e229db1001a10a35b1cb6886a232ce78f59dd56943cae2d8e05"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12928/6726.png",
+      "bytes": 340,
+      "sha256": "65caef31c67ffca09189b01c6d2c7891b11c70bd74016bba864f95cfca0690d3"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12929/6726.png",
+      "bytes": 478,
+      "sha256": "ef4a142fcf283e0a72545779b2cef28c4a46b212af13f7ed15ecc57718ac1a94"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12930/6726.png",
+      "bytes": 324,
+      "sha256": "a590d164d0a01fe3cf299cd2d3157b6c758a8b68b5d1c4cda1f367c3c06faef0"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12931/6726.png",
+      "bytes": 465,
+      "sha256": "634afb2f22fdd3b2f6bb62b9c954a82246a9bcf9195c38046d0ed5f32ce84ba5"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12932/6726.png",
+      "bytes": 324,
+      "sha256": "7902b58d83aa194e7f3651ad304f657c230555e31cf780435ba5e7d314581469"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12924/6727.png",
+      "bytes": 348,
+      "sha256": "a14aa2f3096968c5f9c9f24dc0e6e5a65df3a2676b3f5145c104517406d90b07"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12925/6727.png",
+      "bytes": 465,
+      "sha256": "21f1b947cadc8317b790679fea41133b0a90b2cd50464956f34652ac86800513"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12926/6727.png",
+      "bytes": 350,
+      "sha256": "2eae7063e369d9a3bb965f1f611eee5034308d5e40d84f85a3a2ce46c23cf75f"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12927/6727.png",
+      "bytes": 461,
+      "sha256": "217b3a1b40bd126e83f0a5b491b487a891c93c650a3ce978828e47ade4ca5236"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12928/6727.png",
+      "bytes": 366,
+      "sha256": "ae0d1a90ba1df62b9ebe735a4c6d15d895a2f8e69a8293e1153338569c4f1146"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12929/6727.png",
+      "bytes": 460,
+      "sha256": "51ea4c0425807ca79f23d61e1223f70ceb33e150275cd97f0221e3c83ac689bb"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12930/6727.png",
+      "bytes": 396,
+      "sha256": "7d075ac6e21b9d77b2a035cef6f7ce264567481bd222df0c8accd1b6fc0f2fed"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12931/6727.png",
+      "bytes": 483,
+      "sha256": "cb4dea107346b131fe131ae6b543a1b5f77648b3ecf9959ac2507a5069b58e83"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12932/6727.png",
+      "bytes": 408,
+      "sha256": "a6873d36136616492475e7ce4981ff3ec56a01c033f144a0d22025c6b939fd9a"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12924/6728.png",
+      "bytes": 439,
+      "sha256": "2b4759864ece572fd37caf8936e166532d18a620210180171676a1ea41fd953e"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12925/6728.png",
+      "bytes": 407,
+      "sha256": "de27b0008b303e30198d1aa19285ca72b3f1b72a0211f49f44959165bc4df930"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12926/6728.png",
+      "bytes": 452,
+      "sha256": "a41d4a2cc86835c7587676dcef20453e66a99040b5bd329ee3d27677a7a04066"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12927/6728.png",
+      "bytes": 382,
+      "sha256": "c92da26fd2b4ac46e35563e69c8a165473098943d414c7a44b960591ef0ccac7"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12928/6728.png",
+      "bytes": 467,
+      "sha256": "36f85c818b9a16b63d08cf883ad939310a1912d85868cec8bca4d74f50da8f10"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12929/6728.png",
+      "bytes": 365,
+      "sha256": "a70c41b600f2d4a77dcb54860438fa7338a03f9318495f65b9b7f03524619597"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12930/6728.png",
+      "bytes": 443,
+      "sha256": "a40fc1da46eb5b0c78921f51e844ac592dca32fc020db7e67657ae1d129f47fd"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12931/6728.png",
+      "bytes": 342,
+      "sha256": "26a39cb81d42a7d05777f13dcd446a030b2343e09513684cd2ac0efd558420a7"
+    },
+    {
+      "path": "tiles/demo-v1/0/14/12932/6728.png",
+      "bytes": 445,
+      "sha256": "fd2c7926558a0c01597f857edde97a239c7a520d5c1fc4e26cdbe87277c889dc"
+    }
+  ]
+}

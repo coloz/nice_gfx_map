@@ -1,0 +1,12 @@
+#pragma once
+#define NICE_GFX_MAP_VERSION "0.2.0"
+#include "Map.h"
+#include "TileGrid.h"
+#include "TiandituWmts.h"
+#include "TouchPan.h"
+#include "PinchGesture.h"
+#include "Providers.h"
+#include "Pipeline.h"
+#include "TiandituServices.h"
+#include "Navigation.h"
+#include "Nmea.h"

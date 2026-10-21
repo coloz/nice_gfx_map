@@ -1,0 +1,13 @@
+{
+  "name": "NICE_GFX_MAP",
+  "version": "0.2.0",
+  "description": "Bounded Mercator/Geographic WMTS raster maps, overlays and ESP32 transport adapters for NICE_GFX.",
+  "keywords": ["map", "raster", "tiles", "ESP32", "NICE_GFX", "PSRAM"],
+  "frameworks": ["arduino", "espidf"],
+  "platforms": ["espressif32", "atmelsam"],
+  "headers": ["NICE_GFX_MAP.h"],
+  "build": {
+    "includeDir": "src",
+    "srcDir": "src"
+  }
+}
